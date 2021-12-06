@@ -1,0 +1,348 @@
+body {
+    marign: 0;
+    padding: 0;
+    background-color: hsl(210, 46%, 95%);
+}
+
+.contener {
+    margin-top:-30px;
+    margin-left:30px;
+}
+.daniel {
+    margin-left: 10%;
+    margin-top: 10%;
+    padding-top: 1px;
+    display: block;
+    background-color: hsl(263, 55%, 52%);
+    width: 700px;
+    height: 360px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+#ok{
+    width:150px;
+    height:150px;
+    float:right;
+   margin-left:62%;
+}
+
+.dan {
+    color: white;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    margin-top: 30px;
+
+}
+    .dan p {
+
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        margin-top:0px;
+        font-size:18px;
+    }
+
+    .dan span {
+        color: hsl(0, 0%, 81%);
+        font-size: 16px;
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        opacity: 70%;
+    }
+
+.dan img {
+    border: solid 2px;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    margin-right: 20px;
+}
+
+.texte-daniel {
+    color: white;
+    font-size: 25px;
+    margin-left: 40px;
+    position: relative;
+    top: -45px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.texte-daniel2 {
+    margin-left: 40px;
+    color: hsl(0, 0%, 81%);
+    font-size: 17px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    opacity:60%;
+    margin-top:-20px;
+    
+}
+
+.danjo {
+    display:flex;
+    flex-direction:row;
+}
+
+.jonathan {
+    margin-top: 10%;
+    margin-left: 30px;
+    display: block;
+    background-color: hsl(217, 19%, 35%);
+    width: 320px;
+    height: 360px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.jon {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+    .jon p {
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        margin-top: 0px;
+        font-size: 18px;
+        display:flex;
+        flex-direction:column;
+    }
+
+    .jon span {
+        color: hsl(0, 0%, 81%);
+        font-size: 16px;
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        opacity: 70%;
+    }
+
+.jon img {
+    border: solid 2px;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    margin-right: 20px;
+    color:white;
+}
+
+.jontext {
+    margin-left: 40px;
+    color: white;
+    font-size: 25px;
+    position: relative;
+    top: -45px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    margin-top: 60px;
+}
+
+.jontext2 {
+    margin-left: 40px;
+    color: hsl(0, 0%, 81%);
+    font-size: 17px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    opacity: 60%;
+    margin-top: -20px;
+}
+
+.jeanette {
+    margin-top: 30px;
+    margin-left: 10%;
+    display: block;
+    background-color: hsl(0, 0%, 100%);
+    width: 340px;
+    height: 340px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.jea {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+    .jea p {
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        margin-top: 0px;
+        font-size: 18px;
+        display: flex;
+        flex-direction: column;
+        color:black;
+    }
+
+    .jea span {
+        color: hsl(0, 0%, 81%);
+        font-size: 16px;
+        font-family: 'Barlow Semi Condensed', sans-serif;
+    }
+
+    .jea img {
+        border: solid 2px;
+        border-radius: 50px;
+        width: 40px;
+        height: 40px;
+        display: flex;
+        margin-right: 20px;
+        color: white;
+    }
+
+.jeatext {
+    margin-left: 40px;
+    color: black;
+    font-size: 25px;
+    position: relative;
+    top: -55px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    margin-top: 60px;
+}
+
+.jeatext2 {
+    margin-left: 40px;
+    color: darkgrey;
+    font-size: 17px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    margin-top: -25px;
+}
+
+.jeapat{
+    display:flex;
+    flex-direction:row;
+}
+
+.patrick {
+    margin-left: 30px;
+    margin-top: 30px;
+    padding-top: 1px;
+    display: block;
+    background-color: hsl(219, 29%, 14%);
+    width: 680px;
+    height: 330px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.pat {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.pat p {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    margin-top: 0px;
+    font-size: 18px;
+    color: white;
+}
+
+    .pat span {
+        color: hsl(0, 0%, 81%);
+        font-size: 16px;
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        display: flex;
+        flex-direction: column;
+        opacity:70%;
+    }
+
+.pat img {
+    border: solid 2px;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    margin-right: 20px;
+    color: white;
+}
+
+.pattext {
+    margin-left: 40px;
+    color: white;
+    font-size: 25px;
+    position: relative;
+    top: -55px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    margin-top: 60px;
+}
+
+.pattext2 {
+    margin-left: 40px;
+    color: darkgrey;
+    font-size: 17px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    margin-top: -30px;
+}
+
+.kira {
+    margin-top: -360px;
+    margin-left:30px;
+    display: block;
+    background-color: hsl(0, 0%, 100%);
+    width: 340px;
+    height: 720px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ki {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+    .ki p {
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        margin-top: 0px;
+        font-size: 18px;
+        display: flex;
+        flex-direction: column;
+        color: black;
+    }
+
+    .ki span {
+        color: hsl(0, 0%, 81%);
+        font-size: 16px;
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        display:flex;
+        flex-direction:column;
+    }
+
+    .ki img {
+        border: solid 2px;
+        border-radius: 50px;
+        width: 40px;
+        height: 40px;
+        display: flex;
+        margin-right: 20px;
+        color: white;
+    }
+
+.kitext {
+    margin-left: 40px;
+    color: black;
+    font-size: 25px;
+    position: relative;
+    top: -55px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    margin-top: 60px;
+}
+
+.kitext2 {
+    margin-left: 40px;
+    color: darkgrey;
+    font-size: 17px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    margin-top: -25px;
+    line-height:22.5px;
+}
